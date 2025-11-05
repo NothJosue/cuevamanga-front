@@ -25,7 +25,7 @@ export function Register() {
     return (
         <>
             <main
-                className="w-screen h-screen bg-no-repeat bg-cover bg-center bg-[url('./src/assets/fondo_register.png')]">
+                className="w-screen h-screen bg-no-repeat bg-cover bg-center bg-[url('./src/assets/fondo_register.png')] opacity-95">
                 <div className="p-8">
                     <a href="./Inicio.jsx">
                         <button
